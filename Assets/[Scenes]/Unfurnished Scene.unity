@@ -516,6 +516,11 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &306874252 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1412450319089984315, guid: 5b810c90dd6366c49a82e3002f8a80df, type: 3}
+  m_PrefabInstance: {fileID: 3370951574486724289}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &326857916
 GameObject:
   m_ObjectHideFlags: 0
@@ -3268,6 +3273,7 @@ AudioSource:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream
   m_GameObject: {fileID: 1388911747}
   m_Enabled: 1
   serializedVersion: 4
@@ -3371,6 +3377,15 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
+=======
+  m_GameObject: {fileID: 306874252}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 0f4a8461ac8cb4a3a81768ec7390dc9b, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.136
+>>>>>>> Stashed changes
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -3904,6 +3919,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1412450319089984315, guid: 5b810c90dd6366c49a82e3002f8a80df, type: 3}
       insertIndex: -1
+<<<<<<< Updated upstream
       addedObject: {fileID: 2478434372234484823}
     - targetCorrespondingSourceObject: {fileID: 1412450319089984315, guid: 5b810c90dd6366c49a82e3002f8a80df, type: 3}
       insertIndex: -1
@@ -3911,6 +3927,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8838818393124248679, guid: 5b810c90dd6366c49a82e3002f8a80df, type: 3}
       insertIndex: -1
       addedObject: {fileID: 19814196}
+=======
+      addedObject: {fileID: 2478434372234484822}
+>>>>>>> Stashed changes
   m_SourcePrefab: {fileID: 100100000, guid: 5b810c90dd6366c49a82e3002f8a80df, type: 3}
 --- !u!64 &3871897167781260307
 MeshCollider:
